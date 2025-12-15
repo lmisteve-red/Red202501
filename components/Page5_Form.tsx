@@ -119,7 +119,7 @@ export const Page5_Form: React.FC<Props> = ({ onNext }) => {
           </div>
           <ul className="text-sm text-gray-600 space-y-1 ml-6 list-disc">
             <li>不推銷</li>
-            <li>試聽不收費</li>
+            <li>不綁約</li>
             <li>老師會先觀察孩子狀況</li>
           </ul>
         </div>

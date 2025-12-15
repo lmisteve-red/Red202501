@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Button } from './Button';
-import { Volume2, Play, Pause, CheckCircle, HelpCircle, ThumbsUp } from 'lucide-react';
+import { Play, Pause, CheckCircle, HelpCircle, ThumbsUp } from 'lucide-react';
 
 interface Props {
   onNext: () => void;
